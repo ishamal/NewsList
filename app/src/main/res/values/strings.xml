@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="main_search_text_hint">Search</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="menu_profile">Profile</string>
+    <string name="dashbord_latest_news_text">Latest News</string>
+    <string name="dashbord_see_all_text">See All</string>
+    <string name="chip_health_text">Health</string>
+    <string name="chip_technology_text">Technology</string>
+    <string name="chip_business_text">Business</string>
+    <string name="chip_entertainment_text">Entertainment</string>
+    <string name="chip_general_text">General</string>
+    <string name="chip_science_text">Science</string>
+    <string name="chip_sport_text">Sport</string>
+
+    <string name="filter_title">Filter</string>
+    <string name="reset_text">Reset</string>
+    <string name="search_sort_by">Sort By</string>
+    <string name="search_dialog_relevancy">Relevancy</string>
+    <string name="search_dialog_popularity">Popularity</string>
+    <string name="search_dialogpublished_at">Published At</string>
+</resources>
+
